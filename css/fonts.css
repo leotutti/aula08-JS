@@ -1,0 +1,19 @@
+/* chamada das fontes que estão na pasta */
+
+@font-face {
+    font-family: Poppins-Light;
+    src: url(../fonts/Poppins-Light.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Medium;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+
+body {
+    font-family: Poppins-Light;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Poppins-Medium;
+}
