@@ -240,3 +240,89 @@ export const shows = [
         banner: "./images/image9.jpg"
     }
 ];
+
+/********** Objeto para criar a galeria *************/
+export const galleryImages = [
+    {
+        imagem: "images/image18.jpg",
+        descricao: "Luzes fortes iluminam a multidão"
+    },
+    {
+        imagem: "images/image0.jpg",
+        descricao: "Guitarrista solando com pura energia"
+    },
+    {
+        imagem: "images/image2.jpg",
+        descricao: "Bateria vibrando no palco escuro"
+    },
+    {
+        imagem: "images/image17.jpg",
+        descricao: "Público pulando com emoção intensa"
+    },
+    {
+        imagem: "images/image3.jpg",
+        descricao: "Fumaça subindo com riffs pesados"
+    },
+    {
+        imagem: "images/image5.jpg",
+        descricao: "Cantor grita versos com paixão"
+    },
+    {
+        imagem: "images/image4.jpg",
+        descricao: "Pirotecnia explode durante o refrão"
+    },
+    {
+        imagem: "images/image6.jpg",
+        descricao: "Show começa com gritos e luzes"
+    },
+    {
+        imagem: "images/image10.jpg",
+        descricao: "Baixista comanda groove poderoso"
+    },
+    {
+        imagem: "images/image8.jpg",
+        descricao: "Ritmo acelerado domina o público"
+    },
+    {
+        imagem: "images/image9.jpg",
+        descricao: "Som pesado ecoa pela arena"
+    },
+    {
+        imagem: "images/image11.jpg",
+        descricao: "Vocalista interage com a plateia"
+    },
+    {
+        imagem: "images/image12.jpg",
+        descricao: "Gritos ecoam no estádio lotado"
+    },
+    {
+        imagem: "images/image13.jpg",
+        descricao: "Luzes piscam ao som distorcido"
+    },
+    {
+        imagem: "images/image1.jpg",
+        descricao: "Multidão canta junto o refrão"
+    },
+    {
+        imagem: "images/image14.jpg",
+        descricao: "Explosões marcam o solo final"
+    },
+    {
+        imagem: "images/image15.jpg",
+        descricao: "Palco treme com peso sonoro"
+    },
+    {
+        imagem: "images/image16.jpg",
+        descricao: "Ensaio de som antes do show"
+    },
+    {
+        imagem: "images/image7.jpg",
+        descricao: "Clima elétrico antes da entrada"
+    },
+    {
+        imagem: "images/image19.jpg",
+        descricao: "Fãs vibram com cada batida"
+    }
+];
+  
+  

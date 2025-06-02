@@ -67,3 +67,20 @@
     background-color: #003;
     color: #fff;
 }
+
+/* galeria de imagens */
+.gallery {
+    columns: 300px;
+}
+
+.gallery img {
+    width: 100%;
+    display: block;
+    padding-top: 1rem;
+    transition: .5s;
+    position: fixed;
+}
+
+.gallery img:hover {
+    scale: 1.03;
+}
